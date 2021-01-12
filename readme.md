@@ -20,3 +20,7 @@ Além de gostar muito de tecnologia , no meu tempo livre gosto de jogar futebol 
 - Java Script
 - Booststrap
 - Sass
+
+### Idiomas :
+
+- Inglês
