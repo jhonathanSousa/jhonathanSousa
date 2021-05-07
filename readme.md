@@ -7,7 +7,7 @@
 
 ### Sobre Mim
 
-Olá , meu nome é Jhonathan, tenho 19 anos , estou em busca do meu primeiro emprego na área como desenvolvedor Front End júnior. Sou formado em técnico em desenvolvimento de sistemas ( Centro Paula Souza - Etec ).
+Olá , meu nome é Jhonathan, tenho 20 anos , estou em busca do meu primeiro emprego na área como desenvolvedor Front End júnior. Sou formado em técnico em desenvolvimento de sistemas ( Centro Paula Souza - Etec ).
 
 Além de gostar muito de tecnologia , no meu tempo livre gosto de jogar futebol (⚽ e assistir) ,ler livros 📚 e assistir filmes (📺e séries) 
 
